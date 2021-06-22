@@ -1,4 +1,5 @@
-###Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> EVERYONE!!
+<!-- ###Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> EVERYONE!! -->
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, EVERYONE</h1>
 
 <p align="center">
 Congrats on discovering my Github Profile. <br> 
@@ -26,6 +27,7 @@ Here are some ideas to get you started:
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
 
 
+![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aditya33agrawal&theme=dark&show_icons=true)
 
 
 **Languages and Tools:**
