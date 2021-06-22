@@ -14,8 +14,8 @@ Ask me anything <a href="https://github.com/aditya33agrawal/aditya33agrawal/issu
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
 
 
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aditya33agrawal&theme=dark&show_icons=true)
-<img src="https://github-readme-stats.vercel.app/api?username=aditya33agrawal&show_icons=true&hide_border=true&theme=dark" width="48%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aditya33agrawal&theme=dark" width="48%" >
+<img src="https://github-readme-stats.vercel.app/api?username=aditya33agrawal&show_icons=true&hide_border=true&theme=dark" width="48%" align="right">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya33agrawal&layout=compact)](https://github.com/aditya33agrawal/github-readme-stats)
 
