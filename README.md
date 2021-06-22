@@ -29,6 +29,9 @@ Here are some ideas to get you started:
 
 ![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aditya33agrawal&theme=dark&show_icons=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya33agrawal&layout=compact)](https://github.com/aditya33agrawal/github-readme-stats)
+
+
 
 **Languages and Tools:**
 <br>
