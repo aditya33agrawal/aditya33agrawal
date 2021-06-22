@@ -14,16 +14,20 @@ Ask me anything <a href="https://github.com/aditya33agrawal/aditya33agrawal/issu
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
 
-- 🌱 I’m currently learning HTML, CSS, Python, and C++.
-- 🔭 I’m currently working on creating webpages and learning how to progam.
-- 😀 I like to crochet, code, read, and draw in my free time.
-- 💬 Ask me about fountain pens.
+- 🌱 I’m currently learning JS, and Python.
+- 🔭 I’m currently working on creating webpapps.
+- 😀 I like to code, listen songs and edit them, and read in my free time.
+- 💬 Talk to me about open mic.
 - ⚡ Fun fact: My first line of code was not "Hello World!"
 
+<br>
+<br>
 
+<div>
 <img src="https://github-readme-stats.vercel.app/api?username=aditya33agrawal&show_icons=true&theme=dark" width="48%" align="right">
-<img src = "https://github-readme-streak-stats.herokuapp.com?user=aditya33agrawal&theme=dark&hide_border=true" width = "48%">
-
+<img src="https://github-readme-streak-stats.herokuapp.com?user=aditya33agrawal&theme=dark&hide_border=true" width = "48%">
+</div>
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya33agrawal&layout=compact)](https://github.com/aditya33agrawal/github-readme-stats)
 
 
