@@ -4,6 +4,7 @@
 Congrats on discovering my Github Profile. <br> 
 Feel free to clone/fork projects, raise issues and submit PRs <br> if you think something could be better or if I did something wrong. <br>
 Ask me anything <a href="https://github.com/aditya33agrawal/aditya33agrawal/issues/new"><b>here</b></a> or <a href="mailto:aditya33agrawal@gmail.com"><b>email</b></a> me.
+
 </p>
 
 <div align="center">
@@ -13,9 +14,15 @@ Ask me anything <a href="https://github.com/aditya33agrawal/aditya33agrawal/issu
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
 
+- 🌱 I’m currently learning HTML, CSS, Python, and C++.
+- 🔭 I’m currently working on creating webpages and learning how to progam.
+- 😀 I like to crochet, code, read, and draw in my free time.
+- 💬 Ask me about fountain pens.
+- ⚡ Fun fact: My first line of code was not "Hello World!"
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aditya33agrawal&theme=dark" width="48%" >
-<img src="https://github-readme-stats.vercel.app/api?username=aditya33agrawal&show_icons=true&hide_border=true&theme=dark" width="48%" align="right">
+
+<img src="https://github-readme-stats.vercel.app/api?username=aditya33agrawal&show_icons=true&theme=dark" width="48%" align="right">
+<img src = "https://github-readme-streak-stats.herokuapp.com?user=aditya33agrawal&theme=dark&hide_border=true" width = "48%">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya33agrawal&layout=compact)](https://github.com/aditya33agrawal/github-readme-stats)
 
@@ -30,6 +37,7 @@ Ask me anything <a href="https://github.com/aditya33agrawal/aditya33agrawal/issu
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
@@ -37,5 +45,6 @@ Ask me anything <a href="https://github.com/aditya33agrawal/aditya33agrawal/issu
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code> -->
 <!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code> -->
+
 
 <a href="https://visitor-badge.laobi.icu/badge?page_id=aditya33agrawal.visitor-badge&title=Visits"><img src="https://visitor-badge.laobi.icu/badge?page_id=aditya33agrawal.visitor-badge&title=Visits" align="right" alt="Visits"></a> 
