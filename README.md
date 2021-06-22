@@ -25,7 +25,7 @@ Ask me anything <a href="https://github.com/aditya33agrawal/aditya33agrawal/issu
 
 <div>
 <img src="https://github-readme-stats.vercel.app/api?username=aditya33agrawal&show_icons=true&theme=dark" width="48%" align="right">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=aditya33agrawal&theme=dark&hide_border=true" width = "48%">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=aditya33agrawal&theme=dark" width = "48%">
 </div>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya33agrawal&layout=compact)](https://github.com/aditya33agrawal/github-readme-stats)
