@@ -10,7 +10,7 @@ Ask me anything <a href="https://github.com/aditya33agrawal/aditya33agrawal/issu
 <div align="center">
 <img src="https://github.com/aditya33agrawal/aditya33agrawal/blob/main/coderman.gif" alt="Coder" width="400" height="250" />
 </div>
-<br/>
+<br>
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
 
@@ -24,9 +24,11 @@ Ask me anything <a href="https://github.com/aditya33agrawal/aditya33agrawal/issu
 <br>
 
 <div>
-<img src="https://github-readme-stats.vercel.app/api?username=aditya33agrawal&show_icons=true&theme=dark" width="48%" align="right">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=aditya33agrawal&theme=dark" width = "48%">
+<img src="https://github-readme-stats.vercel.app/api?username=aditya33agrawal&show_icons=true&theme=dark&hide_border=true" width="48%" align="right">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=aditya33agrawal&theme=dark&hide_border=true" width = "48%">
 </div>
+
+<br>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya33agrawal&layout=compact)](https://github.com/aditya33agrawal/github-readme-stats)
 
