@@ -6,6 +6,11 @@ Feel free to clone/fork projects, raise issues and submit PRs <br> if you think 
 Ask me anything <a href="https://github.com/aditya33agrawal/aditya33agrawal/issues/new"><b>here</b></a> or <a href="mailto:aditya33agrawal@gmail.com"><b>email</b></a> me.
 </p>
 
+<div align="center">
+<img src="https://github.com/aditya33agrawal/aditya33agrawal/blob/main/coderman.gif" alt="Coder" width="400" height="250" />
+</div>
+<br/>
+
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
 
 
