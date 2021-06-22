@@ -30,9 +30,9 @@ Ask me anything <a href="https://github.com/aditya33agrawal/aditya33agrawal/issu
 
 <br>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya33agrawal&layout=compact)](https://github.com/aditya33agrawal/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya33agrawal&layout=compact)](https://github.com/aditya33agrawal/github-readme-stats) -->
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya33agrawal&theme=dark&hide_border=true)
 
 **Languages and Tools:**
 <br>
