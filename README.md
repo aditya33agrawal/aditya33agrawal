@@ -14,8 +14,8 @@ Ask me anything <a href="https://github.com/aditya33agrawal/aditya33agrawal/issu
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
 
-- 🌱 I’m currently learning JS, and Python.
-- 🔭 I’m currently working on creating webpapps.
+- 👨🏻‍🎓 I’m currently learning JS, and Python.
+- 🎯 I’m currently working on creating webapps.
 - 😀 I like to code, listen songs and edit them, and read in my free time.
 - 💬 Talk to me about open mic.
 - ⚡ Fun fact: My first line of code was not "Hello World!"
