@@ -8,7 +8,7 @@ Ask me anything <a href="https://github.com/aditya33agrawal/aditya33agrawal/issu
 </p>
 
 <div align="center">
-<img src="https://github.com/aditya33agrawal/aditya33agrawal/blob/main/coderman.gif" alt="Coder" width="400" height="250" />
+<img src="https://github.com/aditya33agrawal/aditya33agrawal/blob/main/coderman.gif?raw=true" alt="Coder" width="400" height="250" />
 </div>
 <br>
 
